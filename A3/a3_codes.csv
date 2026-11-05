@@ -1,1 +1,7 @@
 observation,theme
+ctrl+f to verify the Arceus count,doubt/manual verification
+one pokemon is part of a game title,contextual observation
+count instances without the title,doubt/manual verification
+follow-up prompt,doubt/prompt repair
+count goes from 6 to 5,doubt/confusion
+another manual ctrl+f check results in 5,beginning to trust
